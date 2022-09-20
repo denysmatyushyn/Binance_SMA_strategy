@@ -14,3 +14,9 @@ To run this:
 
 To use it:  
 - Example of running `python BinanceSMAstrategy.py`
+
+To clear SQL tables:  
+- Example of running `python deleteSQL.py`
+
+To select rows from SQL table:  
+- Example of running `python selectSQL.py`
